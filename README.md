@@ -11,7 +11,6 @@ List the main files and folders in your repo.
 - `data/` – Raw and processed sediment data
 - `scripts/` – Python scripts for analysis and visualization
 - `notebooks/` – Jupyter notebooks with exploratory work
-- `results/` – Plots, maps, and summary tables
 
 ## Methods
 Briefly describe your methodology.
